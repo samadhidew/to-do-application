@@ -17,7 +17,7 @@
   text-align: center;
   height: 170px;
   margin-top: 10px;
-  width: auto;
+  width: 100%;
 }
 
 .cbtn,
@@ -32,7 +32,7 @@
   cursor: pointer;
   transition: 0.3s;
   border-radius: 5px;
-  margin-left: 120px;
+  margin-left: 320px;
   margin-top: 60px;
 }
 a {
