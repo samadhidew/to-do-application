@@ -1,0 +1,40 @@
+.header1 {
+  background-color: #299141;
+  padding: 30px 40px;
+  color: white;
+  text-align: center;
+  height: 400px;
+  background-image: url("../img/images.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+}
+
+.header {
+  background-color: #6cc7d3;
+  padding: 30px 40px;
+  color: white;
+  text-align: center;
+  height: 170px;
+  margin-top: 10px;
+  width: auto;
+}
+
+.cbtn,
+.vbtn {
+  padding: 10px;
+  width: 15%;
+  background: #d2dc96;
+  color: #555;
+  float: left;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 5px;
+  margin-left: 120px;
+  margin-top: 60px;
+}
+a {
+  text-decoration: none;
+}
